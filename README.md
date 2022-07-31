@@ -5,8 +5,8 @@ My main roles included the use of a CNC milling machine, a conventional milling 
 
 In this repository one can find the code implemented; picture and video footage of the manufacturing process, the webpage, the HMI, The code for the Cognex camera and the robot's functionality.
 
-[Delta functionality](https://youtu.be/pBY4AXubVOw)
+[Delta functionality](https://youtu.be/MyCAaGi_ooI)
 
 [Milling CNC Working](https://youtu.be/NQq0tLHyiK0)
 
-[Delta functionality](https://youtu.be/MyCAaGi_ooI)
+
