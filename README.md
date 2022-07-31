@@ -13,6 +13,25 @@ In this repository one can find the code implemented; picture and video footage 
 # Human Machine Interface
 ![HMI_Img](HMI_Img.png)
 
+# Manufacturing process
+![](Delta_Media/IMG_20220426_134646.jpg)
+
+![](Delta_Media/IMG_20220426_134650.jpg)
+
+![](Delta_Media/IMG_20220429_125340.jpg)
+
+![](Delta_Media/IMG_20220520_125613.jpg)
+
+![](Delta_Media/IMG_20220520_150728.jpg)
+
+![](Delta_Media/IMG_20220604_195226.jpg)
+
+# The Microcontroller
+![](Delta_Media/IMG_20220606_180339.jpg)
+
+# Webpage
+![](Delta_Media/Screenshot_2022-07-16-11-02-47-72_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
+
 
 
 
